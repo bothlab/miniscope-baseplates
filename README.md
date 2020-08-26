@@ -1,4 +1,5 @@
 # Baseplate Components for the UCLA Miniscope v4
+<img align="right" src="graphics/components-render_small.png">
 
 This repository contains design file for baseplates and related components for the
 [UCLA Miniscope v4](https://github.com/Aharoni-Lab/Miniscope-v4) which are based on and are compatible to the
