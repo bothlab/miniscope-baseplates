@@ -20,10 +20,14 @@ under the CERN Open Hardware Licence Version 2 (Strongly Reciprocal).
 ## Parts
 
 `MS4Baseplate-B_v1` is a modified Miniscope v4 baseplate design with adjusted angles and hole for a M1.6 set screw.
-`MS4ObjectiveModuleSleeve_v1` is the module sleeve that fits with the baseplate in this repository. It is identical to the
-original module sleeve except for a small indentation for the screw (which could also be left out completely).
+`MS4ObjectiveModuleSleeve_v1` is the module sleeve that fits with the baseplate in this repository. It should be identical
+to the original module sleeve except for the small indentation for the set screw.
 `MS4BaseplateLid_v1` is a lid that can be placed on the baseplate when no Miniscope is connected to protect the implanted lens.
 All parts are made from aluminium.
+
+This is a picture of the finished parts with an small allen key for the set screw:
+
+<img src="graphics/components_photo.jpg" alt="Miniscope Baseplate/Objective Sleeve/Lid" height="240">
 
 ## Obtaining Screws
 
